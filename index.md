@@ -24,7 +24,7 @@
 </p>
 </h4>
 
-## 目录：
+## 工作：
 
 [安全生产责任制](安全生产责任制/index.md)
 
@@ -42,8 +42,6 @@
 
 [数字国投APP](https://newapp.sdic.com.cn)
 
-[国投幸福家](https://home.sdic.com.cn)
-
 [国投生物网络考试系统](http://exam.gtswims.com)
 
 [各类题库](https://sdic.pages.dev/tk/)
@@ -51,4 +49,4 @@
 <p>
         消耗（含水分）：
                 <a href="https://www.kdocs.cn/l/chOEmXMBA0mJ">金山版</a>
-</p>
+        </p>

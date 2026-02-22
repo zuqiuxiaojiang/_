@@ -1,4 +1,7 @@
 
+<!-- 引入外部CSS文件 -->
+<link rel="stylesheet" href="styles.css">
+
 <h1>
 <img src="./SDIC.png" alt="示例图片" class="inline-image" />
 <span class="inline-title">应知应会</span>

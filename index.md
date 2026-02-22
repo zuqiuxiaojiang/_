@@ -1,16 +1,4 @@
 
-<style>
-  .inline-image {
-    display: inline-block;
-    height: 45px;
-    vertical-align: middle;
-  }
-  .inline-title {
-    display: inline-block;
-    vertical-align: middle;
-  }
-</style>
-
 <h1>
 <img src="./SDIC.png" alt="示例图片" class="inline-image" />
 <span class="inline-title">应知应会</span>
